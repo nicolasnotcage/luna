@@ -4,7 +4,7 @@ A comprehensive chess engine and game development project implementing a bitboar
 
 ## Project Overview
 
-ChessLab consists of three primary components that work together to create a complete chess playing experience:
+Luna consists of three primary components that work together to create a complete chess playing experience:
 
 ### 🎯 **ChessRules** 
 Core chess logic library containing:
@@ -106,7 +106,7 @@ Command line arguments will update the config file with the specified engine pat
 ## Project Structure
 
 ```
-ChessLab/
+luna/
 ├── src/
 │   ├── ChessRules/           # Core chess logic library
 │   │   ├── include/          # Bitboard, position, move generation
