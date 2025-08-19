@@ -1,0 +1,4 @@
+Bottom Boundary: Min(-35.5, 18.5), Max(35.4, 20)
+Left Boundary: Min(-35.5, -20), Max(-33.25, 18.4)
+Right Boundary: Min(33.2, -20), Max(35.5, 18.3)
+Top Boundary: Min(-35.5, -20), Max(35.5, -18)

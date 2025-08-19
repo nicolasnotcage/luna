@@ -1,0 +1,7 @@
+# Configuration File
+# Generated on: Aug 19 2025 10:39:36
+
+screen_width = 800
+screen_height = 600
+music_enabled = true
+engine_path = src/ChessEngine/Debug/luna.exe
